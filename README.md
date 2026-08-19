@@ -1,4 +1,4 @@
-# Food Delivery Data Analysis Dashboard | <b>Power BI</b> <img src="https://github.com/SubrataSarkar-in/Food_Delivery_Dashboard_Analysis-Power-Bi/blob/47593a5b52eb0b018701b948f9ba020dd7c7f388/Power-BI.png" width="25" height="25" align="center">
+# Food Delivery Data Analysis Dashboard | <b>Power BI</b>
 
 ## Project Overview :
 
@@ -75,3 +75,4 @@ This project Skills practice :
 *  <b>Dashboard </b>
 
 The main objective of the project was to take multiple raw Excel datasets and turn them into an interactive Power BI report where the data can be explored from different business perspectives.
+
