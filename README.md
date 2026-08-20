@@ -76,3 +76,62 @@ This project Skills practice :
 
 The main objective of the project was to take multiple raw Excel datasets and turn them into an interactive Power BI report where the data can be explored from different business perspectives.
 
+<h2 align="center">Project Overview ⭐</h2>
+
+<br>
+
+<!-- ===================== VIDEO + IMAGE ===================== -->
+
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://drive.google.com/file/d/195HT77pqEEHMiNZdNygmfenVluovBRmy/view?usp=sharing">
+
+<img
+src="https://github.com/SubrataSarkar-in/Food_Delivery_Dashboard_Analysis-Power-Bi/blob/8159106b7b87f4dbc19a36304d1b604d7bddc1df/Dashboards_Thubnail.png"
+alt="Project Video"
+width="100%"
+style="border:2px solid #808080; border-radius:10px; box-shadow:0 0 10px #808080;">
+
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+src="https://github.com/SubrataSarkar-in/Food_Delivery_Dashboard_Analysis-Power-Bi/blob/dc6da7a7c1bc2d4aa2d2c183bdacd7d33efec437/Food_Delivery_Dashboards.png"
+alt="https://github.com/SubrataSarkar-in/Food_Delivery_Dashboard_Analysis-Power-Bi/blob/dc6da7a7c1bc2d4aa2d2c183bdacd7d33efec437/Food_Delivery_Dashboards.png"
+width="100%"
+style="border:2px solid #808080; border-radius:10px; box-shadow:0 0 10px #808080;">
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ========================= PDF ========================== -->
+
+<table width="100%">
+<tr>
+<td align="center">
+
+<a href="https://drive.google.com/file/d/12yBuWnYJypKyiZFZ4lJN1gpKMUNmqNBr/view?usp=sharing">
+
+<img
+src="PASTE_GITHUB_PDF_PREVIEW_PERMALINK"
+alt="Project PDF"
+width="96%"
+style="border:2px solid #808080; border-radius:10px; box-shadow:0 0 12px #808080;">
+
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
