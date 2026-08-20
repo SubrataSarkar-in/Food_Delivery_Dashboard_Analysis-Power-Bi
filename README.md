@@ -123,7 +123,7 @@ style="border:2px solid #808080; border-radius:10px; box-shadow:0 0 10px #808080
 <a href="https://drive.google.com/file/d/12yBuWnYJypKyiZFZ4lJN1gpKMUNmqNBr/view?usp=sharing">
 
 <img
-src="PASTE_GITHUB_PDF_PREVIEW_PERMALINK"
+src="https://github.com/SubrataSarkar-in/Food_Delivery_Dashboard_Analysis-Power-Bi/blob/4106bf6abdfbacea86b3a658bee325d46cae04b9/Project_Overview_pdf.png"
 alt="Project PDF"
 width="96%"
 style="border:2px solid #808080; border-radius:10px; box-shadow:0 0 12px #808080;">
@@ -135,3 +135,4 @@ style="border:2px solid #808080; border-radius:10px; box-shadow:0 0 12px #808080
 </table>
 
 <br>
+
